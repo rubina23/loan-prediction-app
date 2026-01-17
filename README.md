@@ -49,6 +49,7 @@ The app is deployed on Hugging Face Spaces and accessible via a public URL:
 loan-prediction-app/
 ├── main.py
 ├── app.py
+├── best_model.pkl
 ├── loan_approval.csv
 ├── requirements.txt
 └── README.md
