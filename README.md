@@ -39,7 +39,7 @@ This project demonstrates the complete ML workflow: data preprocessing, model tr
 ## 🌐 Live Demo
 
 The app is deployed on Hugging Face Spaces and accessible via a public URL:  
-👉 [Loan Prediction App on Hugging Face](https://huggingface.co/spaces/username/loan-prediction-app)
+👉 [Loan Prediction App on Hugging Face](https://huggingface.co/spaces/rubina25/Loan-Prediction-App)
 
 ---
 
