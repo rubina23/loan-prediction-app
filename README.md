@@ -30,7 +30,7 @@ This project demonstrates the complete ML workflow: data preprocessing, model tr
 
 - Python
 - Scikit-learn
-- Joblib
+- Pickle
 - Gradio
 - Hugging Face Spaces
 
@@ -44,3 +44,10 @@ The app is deployed on Hugging Face Spaces and accessible via a public URL:
 ---
 
 ## 📂 Repository Structure
+
+loan-prediction-app/
+├── main.py
+├── app.py
+├── loan_approval.csv
+├── requirements.txt
+└── README.md
