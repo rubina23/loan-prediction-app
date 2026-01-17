@@ -21,7 +21,8 @@ This project demonstrates the complete ML workflow: data preprocessing, model tr
 - **Accuracy:** 100%
 - **Metrics:** Precision, Recall, F1-score reported for each class
 - **Confusion Matrix:** Shows correct vs incorrect predictions
-  The model achieved perfect classification on the test set, with precision, recall, and F1-score all equal to 1.00. The confusion matrix shows zero misclassifications.
+
+- The model achieved perfect classification on the test set, with precision, recall, and F1-score all equal to 1.00. The confusion matrix shows zero misclassifications.
 
 ---
 
